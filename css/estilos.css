@@ -1,0 +1,44 @@
+.fondo-body{
+  background: url(../img/fondo.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: 100% 80%;
+  background-color: #ff5252;
+  height: 100%;
+  width: 100%;
+}
+.barra-superior{
+  min-height: 12rem;
+}
+.logo{
+  width: 100%;
+  margin-top: 1.5rem;
+}
+.iconos-botones-accion{
+  margin-top: 1rem;
+}
+.eslogan{
+  margin-top: 1.2rem;
+}
+.iconos-redes{
+  margin-top: 15rem;
+}
+.redes-sociales{
+  width: 70%;
+  border-radius: 7.5px;
+  margin: 0.5rem;
+}
+.imagenes1{
+  width: 100%;
+}
+.imagenes2{
+  width: 100%;
+  float: left;
+}
+.texto-contenido{
+  text-align: justify;
+}
+.imagenes3{
+  width: 70%;
+}
